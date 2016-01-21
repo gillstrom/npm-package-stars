@@ -1,6 +1,6 @@
 {
   "name": "npm-package-stars",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the stars of a npm package",
   "license": "MIT",
   "repository": "gillstrom/npm-package-stars",
