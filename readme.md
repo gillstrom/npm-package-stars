@@ -33,12 +33,6 @@ npmPackageStars.users('chalk').then(users => {
 
 Returns a promise that resolves into the number of stars.
 
-#### package
-
-Type: `string`
-
-Package to fetch stars from.
-
 ### .users(package)
 
 Returns a promise that resolves into an array of users starring the package.
@@ -47,7 +41,7 @@ Returns a promise that resolves into an array of users starring the package.
 
 Type: `string`
 
-Package to fetch users starring the package from.
+Package to fetch from.
 
 
 ## License
